@@ -1,0 +1,6 @@
+# Project exclude paths
+venv/*
+*.pt
+*.csv
+*.png
+saved_model/
