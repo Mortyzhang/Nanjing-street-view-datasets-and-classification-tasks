@@ -1,5 +1,5 @@
 # The SOTA model for street view classification
-This a project for city building sence classification. This tool is created for the multilabel building classification at a published paper:
+This is a project for city building sence classification. This tool is created for the multilabel building classification at a published paper:
 
 Zhang, J., Fukuda, T., & Yabuki, N. (2021). Development of a City-Scale Approach for Façade Color Measurement with Building Functional Classification Using Deep Learning and Street View Images. ISPRS International Journal of Geo-Information, 10(8), 551; https://doi.org/10.3390/ijgi10080551.
 
